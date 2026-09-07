@@ -1,0 +1,20 @@
+{
+  "name": "note-taking-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2",
+    "nodemon": "^3.1.14"
+  }
+}
